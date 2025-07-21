@@ -1,6 +1,6 @@
 {
   
-"homepage": "https://Mishthi1309.github.io/Youtube-Clone-",
+"homepage": "https://Mishthi1309.github.io/Youtube-Clone",
   
 "name": "yt-clone",
   
@@ -28,7 +28,7 @@
 "predeploy": "npm run build",
   
   
-"deploy": "gh-pages -d build"
+"deploy": "gh-pages -d dist"
   
 },
   
